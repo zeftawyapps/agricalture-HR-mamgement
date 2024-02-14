@@ -1,0 +1,162 @@
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\bin\Debug\Zera3a.exe.config
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\ResolveAssemblyReference.cache
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.DataEntery.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.EmpiloyeeDataFrm.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.FinanceDegree.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.Gam3eaSearchFrm.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.get_error.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.jobDescriptionFrm.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.QulifaySearch.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.visaCasefrm.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.FormDesingne.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.StartsFrm.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.FirstFrm.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.MailMnuesFrm.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.Resources.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.test.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.ReportDesignControl.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.t_button.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.t_textbox.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.ZeftawyReport.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.Form1.resources
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.vbproj.GenerateResource.Cache
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\bin\Debug\mydata.mdb
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\bin\Debug\Zera3a.exe
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\bin\Debug\Zera3a.pdb
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\bin\Debug\Zera3a.xml
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\bin\Debug\ZeftawyTools.dll
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\bin\Debug\ZeftawyTools.xml
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.exe
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.xml
+D:\New Folder\برامج العمل\نسخة احتياطي\Zera3a\Zera3a\obj\Debug\Zera3a.pdb
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\mydata.mdb
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.exe.config
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.exe
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.pdb
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.xml
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\ZeftawyTools.dll
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\ZeftawyTools.xml
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\ResolveAssemblyReference.cache
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.DataEntery.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.EmpiloyeeDataFrm.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FinanceDegree.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Gam3eaSearchFrm.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.get_error.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.jobDescriptionFrm.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.QulifaySearch.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.visaCasefrm.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FormDesingne.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.StartsFrm.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FirstFrm.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.MailMnuesFrm.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Resources.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.test.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.ReportDesignControl.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.t_button.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.t_textbox.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.ZeftawyReport.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Form1.resources
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.exe
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.xml
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.pdb
+E:\عمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Form3.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.exe.config
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.exe
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.xml
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.pdb
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\mydata.mdb
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.exe
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.pdb
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.xml
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\ZeftawyTools.dll
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\ZeftawyTools.xml
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.vbprojResolveAssemblyReference.cache
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.DataEntery.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.EmpiloyeeDataFrm.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FinanceDegree.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Gam3eaSearchFrm.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.get_error.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.jobDescriptionFrm.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.QulifaySearch.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.visaCasefrm.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FormDesingne.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.StartsFrm.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FirstFrm.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.MailMnuesFrm.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Resources.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.test.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.ReportDesignControl.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.t_button.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.t_textbox.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.ZeftawyReport.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Form1.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Form3.resources
+F:\عمل\Z Apps\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.vbproj.GenerateResource.Cache
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.exe.config
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.exe
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.xml
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.pdb
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\mydata.mdb
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.exe
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.pdb
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.xml
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\ZeftawyTools.dll
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\ZeftawyTools.xml
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.vbprojResolveAssemblyReference.cache
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.DataEntery.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.EmpiloyeeDataFrm.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FinanceDegree.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Gam3eaSearchFrm.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.get_error.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.jobDescriptionFrm.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.QulifaySearch.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.visaCasefrm.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FormDesingne.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.StartsFrm.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FirstFrm.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.MailMnuesFrm.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Resources.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.test.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.ReportDesignControl.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.t_button.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.t_textbox.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.ZeftawyReport.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Form1.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Form3.resources
+I:\عمل\Z Apps\برامج تحت العمل\برامج تحت العمل\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.vbproj.GenerateResource.Cache
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\mydata.mdb
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.exe.config
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.exe
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.pdb
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\Zera3a.xml
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\ZeftawyTools.dll
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\bin\Debug\ZeftawyTools.xml
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.vbproj.AssemblyReference.cache
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.DataEntery.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.EmpiloyeeDataFrm.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FinanceDegree.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Gam3eaSearchFrm.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.get_error.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.jobDescriptionFrm.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.QulifaySearch.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.visaCasefrm.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FormDesingne.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.StartsFrm.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.FirstFrm.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.MailMnuesFrm.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Resources.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.test.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.ReportDesignControl.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.t_button.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.t_textbox.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.ZeftawyReport.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Form1.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.Form3.resources
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.vbproj.GenerateResource.cache
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.vbproj.CoreCompileInputs.cache
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.vbproj.CopyComplete
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.exe
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.xml
+G:\Z-Apps\apps\ms\دسك توب\زراعة\Zera3a\Zera3a\obj\Debug\Zera3a.pdb

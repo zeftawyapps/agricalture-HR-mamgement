@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3270ECA8-7331-4488-AD4B-2C666702A8DE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Zera3a.My.MyApplication</StartupObject>
+    <RootNamespace>Zera3a</RootNamespace>
+    <AssemblyName>Zera3a</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>Resources\2.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Zera3a.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Zera3a.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System">
+      <HintPath>C:\Windows\Microsoft.NET\Framework64\v2.0.50727\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="ZeftawyTools, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="File\DataEntery.Designer.vb">
+      <DependentUpon>DataEntery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File\DataEntery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File\EmpiloyeeDataFrm.Designer.vb">
+      <DependentUpon>EmpiloyeeDataFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File\EmpiloyeeDataFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File\FinanceDegree.Designer.vb">
+      <DependentUpon>FinanceDegree.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File\FinanceDegree.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File\Gam3eaSearchFrm.Designer.vb">
+      <DependentUpon>Gam3eaSearchFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File\Gam3eaSearchFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File\get error.Designer.vb">
+      <DependentUpon>get error.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File\get error.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File\jobDescriptionFrm.Designer.vb">
+      <DependentUpon>jobDescriptionFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File\jobDescriptionFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File\QulifaySearch.Designer.vb">
+      <DependentUpon>QulifaySearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File\QulifaySearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="File\visaCasefrm.Designer.vb">
+      <DependentUpon>visaCasefrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="File\visaCasefrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrms\EndFrm.Designer.vb">
+      <DependentUpon>EndFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrms\EndFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrms\FirstFrm.Designer.vb">
+      <DependentUpon>FirstFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrms\FirstFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainFrms\MailMnuesFrm.Designer.vb">
+      <DependentUpon>MailMnuesFrm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainFrms\MailMnuesFrm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="mydataDataSet.Designer.vb">
+      <DependentUpon>mydataDataSet.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="mydataDataSet.vb">
+      <DependentUpon>mydataDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Report\Detailes.vb" />
+    <Compile Include="Report\NewFolder1\drowTable.vb" />
+    <Compile Include="Report\NewFolder1\test.designer.vb">
+      <DependentUpon>test.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report\NewFolder1\test.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report\one Feild.vb" />
+    <Compile Include="Report\Pages.vb" />
+    <Compile Include="Report\Picture.vb" />
+    <Compile Include="Report\reportPart.vb" />
+    <Compile Include="Report\ReportPrint.vb" />
+    <Compile Include="Report\reportOverPritnt.vb" />
+    <Compile Include="Report\Table.vb" />
+    <Compile Include="Tools\ReportDesignControl.Designer.vb">
+      <DependentUpon>ReportDesignControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\ReportDesignControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tools\t_button .vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tools\t_textbox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tools\XmlDatabasework.vb" />
+    <Compile Include="Tools\ZeftawyReport.Designer.vb">
+      <DependentUpon>ZeftawyReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\ZeftawyReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="حساب المرتب\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="حساب المرتب\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="حساب المرتب\Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="حساب المرتب\Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="حساب المرتب\SalaryAdded.vb" />
+    <Compile Include="حساب المرتب\salaryDedected.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="File\DataEntery.resx">
+      <DependentUpon>DataEntery.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File\EmpiloyeeDataFrm.resx">
+      <DependentUpon>EmpiloyeeDataFrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File\FinanceDegree.resx">
+      <DependentUpon>FinanceDegree.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File\Gam3eaSearchFrm.resx">
+      <DependentUpon>Gam3eaSearchFrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File\get error.resx">
+      <DependentUpon>get error.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File\jobDescriptionFrm.resx">
+      <DependentUpon>jobDescriptionFrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File\QulifaySearch.resx">
+      <DependentUpon>QulifaySearch.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="File\visaCasefrm.resx">
+      <DependentUpon>visaCasefrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrms\EndFrm.resx">
+      <DependentUpon>EndFrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrms\FirstFrm.resx">
+      <DependentUpon>FirstFrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainFrms\MailMnuesFrm.resx">
+      <DependentUpon>MailMnuesFrm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\NewFolder1\test.resx">
+      <DependentUpon>test.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\ReportDesignControl.resx">
+      <DependentUpon>ReportDesignControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\t_button .resx">
+      <DependentUpon>t_button .vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\t_textbox.resx">
+      <DependentUpon>t_textbox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\ZeftawyReport.resx">
+      <DependentUpon>ZeftawyReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="حساب المرتب\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="حساب المرتب\Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="mydataDataSet.xsc">
+      <DependentUpon>mydataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="mydataDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>mydataDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="mydataDataSet.xss">
+      <DependentUpon>mydataDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Report\ClassDiagram1.cd" />
+    <None Include="Report\NewFolder1\ClassDiagram1.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="mydata.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\2.ico" />
+    <None Include="Resources\-2.gif" />
+    <Content Include="ZeftawyTools.dll" />
+    <Content Include="ZeftawyTools.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="File\Reports\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

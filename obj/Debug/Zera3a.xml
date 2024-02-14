@@ -1,0 +1,2453 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Zera3a
+</name>
+</assembly>
+<members>
+<member name="T:Zera3a.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Zera3a.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Zera3a.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Zera3a.Gam3eaSearchFrm.Gam3yaName">
+ <summary>
+ اظهار اسماء الجمعيات 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Gam3eaSearchFrm.INdex">
+ <summary>
+ رقم الجمعية 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:Zera3a.mydataDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.HokmsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.Gam3iaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.JobDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.QualifayDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.FinanceDegreeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.EmpDataDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.HokmsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.Gam3iaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.JobRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.QualifayRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.FinanceDegreeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.EmpDataRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.HokmsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.Gam3iaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.JobRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.QualifayRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.FinanceDegreeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSet.EmpDataRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.HokmsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.Gam3iaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.JobTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.QualifayTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.FinanceDegreeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.EmpDataTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Zera3a.mydataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Zera3a.mydataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Zera3a.mydataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Zera3a.mydataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Zera3a.mydataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Zera3a.mydataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Zera3a.mydataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Zera3a.mydataDataSetTableAdapters.TableAdapterManager.UpdateAll(Zera3a.mydataDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Zera3a.mydataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="M:Zera3a.GetDataFromDataGrideView.GetDataFromDGV(System.Windows.Forms.DataGridView)">
+ <summary>
+ ويستخدم في الطباعة اول مرة data grid view هذا الاجراء يستخدم في اخذالبيانات من ال
+ </summary>
+ <param name="dg"></param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.GetDataFromDataGrideView.DataHeadString">
+ <summary>
+ نص راس الجدول
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.GetDataFromDataGrideView.#ctor">
+ <summary>
+ هذا التصنيف يقوم باخذ البيانات فقط وحساب الاعمدة و الصفوف فقط ولا يقوم بتحديد موضعها في الصفحة
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.MyPage">
+ <summary>
+ الصفحة المطلوب الرسم عليها
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.topMargen">
+ <summary>
+ هامش اعلى الصفحة 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.leftMargen">
+ <summary>
+ هامش يسار الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.buttomMargen">
+ <summary>
+ لهامش اسفل الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.RightMargen">
+ <summary>
+ لهامش   يمين الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.TableFrame">
+ <summary>
+ شكل الاطار
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.FramePen">
+ <summary>
+ قلم الاطار
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.DrowFram(System.Drawing.Graphics,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ رسم الاطار
+ </summary>
+ <param name="g">قلم الرسم</param>
+ <param name="x">X</param>
+ <param name="y">Y</param>
+ <param name="w">العرض</param>
+ <param name="h">الطول</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.DrowFram(System.Drawing.Graphics)">
+ <summary>
+ رسم الاطار بالاطوال الافتراضية
+ </summary>
+ <param name="g"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.FramDestenation(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ لحساب اطوال الجدول
+ </summary>
+ <param name="ftop">العلوي</param>
+ <param name="fleft">اليسار</param>
+ <param name="fhight">الارتفاع</param>
+ <param name="fwidth">العرض</param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.CullomColor">
+ <summary>
+  لون الاعمدة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.RowColor">
+ <summary>
+  لون الاعمدة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.CulloumLineCount">
+ <summary>
+ عدد الاعمدة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.RowLineCount">
+ <summary>
+ عدد الصفوف
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.cullomePen">
+ <summary>
+ قلم العمود
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.rowPen">
+ <summary>
+ قلم الصف
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.rowFeildMargen">
+ <summary>
+ الهامش بين الصفين
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.cullomFeildMargen">
+ <summary>
+ الهامش بين العمودين
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="T:Zera3a.MySimpleReport.line">
+ <summary>
+ الخط المستخدم في رسم العمود و الصف
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.line.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ نقاط تحديد الخد المرسوم في الجدول
+ </summary>
+ <param name="x1">X1</param>
+ <param name="y1">Y1</param>
+ <param name="x2">X2</param>
+ <param name="y2">Y2</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.DrowRow(System.Drawing.Graphics)">
+ <summary>
+ رسم الصفوف
+ </summary>
+ <param name="g"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.Drowcullome(System.Drawing.Graphics)">
+ <summary>
+ رسم العمود
+ </summary>
+ <param name="g"></param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.headerMargen">
+ <summary>
+ الهامش في خانة راس العمود
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.Headercolor1">
+ <summary>
+ اللون الطرفي في خالنة رأس الجدول  
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.Headercolor2">
+ <summary>
+ اللون الطرفي في خالنة الوسطي الجدول 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.CurrentRow">
+ <summary>
+ حساب الصف الحالي
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.culmefeildMargiene">
+ <summary>
+ هوامش الاعمدة التي في الداتا جريد
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.hasMorPage">
+ <summary>
+ هل تحتاج لصفحة اخرى
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.GetData_TableFlexadle">
+ <summary>
+  علمية اخذ البيانات من الداتا جريد    
+ </summary>
+</member>
+<member name="M:Zera3a.MySimpleReport.NewPageRowcount">
+<summary>
+ حساب الصفوف في الصفحة الجديدة
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.DefutlRowForPage">
+ <summary>
+ عدد الصفوف في الصحفة الواحدة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.DrowReport(System.Drawing.Graphics)">
+ <summary>
+ لرسم التقرير
+ </summary>
+ <param name="g"></param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.TablesInPage">
+ <summary>
+ كم الجدول المرسوم في الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.PageHeaderRectangel">
+ <summary>
+ مربع رأس الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.PageFooterRectangel">
+ <summary>
+ مربع ذيل الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.setFooterRectangel(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ عمل مربع في ذيل الصفحة
+ </summary>
+ <param name="x">اليسار</param>
+ <param name="y">الاعلى</param>
+ <param name="h">الطول</param>
+ <param name="w">العرض</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.defoultHeaderRectangel">
+ <summary>
+ الشكل الافتراضي لمربع رأس الصفحة
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.defoultFooterRectangel">
+ <summary>
+ الشكل الافتراضي لمربع ذيل الصفحة
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.PageFooterString">
+ <summary>
+ النص المكتوب في أول الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.PageheaderString">
+ <summary>
+ النص المكتوب في ذيل الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.Graphic">
+ <summary>
+ قلم رسم في الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.WtitePageHeaderString(System.Drawing.Graphics,System.String,System.Drawing.Font,System.Drawing.StringFormat,System.Drawing.SolidBrush)">
+ <summary>
+ كتابة النص
+ </summary>
+ <param name="s">النص</param>
+ <param name="f">الخص</param>
+ <param name="sf">شكل الخط</param>
+ <param name="color">لون النص</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.WtitePageFooterString(System.Drawing.Graphics,System.String,System.Drawing.Font,System.Drawing.StringFormat,System.Drawing.SolidBrush)">
+ <summary>
+   كتابة النص اسفل الصفحة
+ </summary>
+ <param name="s">النص</param>
+ <param name="f">الخص</param>
+ <param name="sf">شكل الخط</param>
+ <param name="color">لون النص</param>
+ <remarks></remarks>
+</member>
+<member name="F:Zera3a.MySimpleReport.isgetDatagrideheigt">
+ <summary>
+ تستخدم لاختبار اذا تم تحديد ارتفاع جديد للجدول
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.PageFooterColor">
+ <summary>
+لون نص الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.FontPageFooter">
+ <summary>
+خط نص راس الصفحة 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.PageFooterStringFormat">
+ <summary>
+ شكل نص راس الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.PageHeaderColor">
+ <summary>
+لون نص اعلى  الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.FontPageHeader">
+ <summary>
+خط نص راس الصفحة 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.PageHeaderStringFormat">
+ <summary>
+ شكل نص راس الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportHeaderRectangel">
+ <summary>
+ مربع رأس التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportFooterRectangel">
+ <summary>
+ مربع ذيل التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.setReportFooterRectangel(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ عمل مربع في ذيل التقرير
+ </summary>
+ <param name="x">اليسار</param>
+ <param name="y">الاعلى</param>
+ <param name="h">الطول</param>
+ <param name="w">العرض</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.defoultReportHeaderRectangel">
+ <summary>
+ الشكل الافتراضي لمربع رأس التقرير
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.defoultReportFooterRectangel">
+ <summary>
+ الشكل الافتراضي لمربع ذيل التقرير
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportFooterString">
+ <summary>
+ النص المكتوب في أول التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="F:Zera3a.MySimpleReport.IsFirstPage">
+ <summary>
+ اختبار ادا كانت الصفحة المطبوعة اول الصفحة او اخر الصفحة
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Zera3a.MySimpleReport.IsLastPage">
+ <summary>
+ اختبار ادا كانت الصفحة المطبوعة اول الصفحة او اخر الصفحة
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportHeaderString">
+ <summary>
+ النص المكتوب في ذيل التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.WtiteReportHeaderString(System.Drawing.Graphics,System.String,System.Drawing.Font,System.Drawing.StringFormat,System.Drawing.SolidBrush)">
+ <summary>
+ كتابة النص
+ </summary>
+ <param name="s">النص</param>
+ <param name="f">الخص</param>
+ <param name="sf">شكل الخط</param>
+ <param name="color">لون النص</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.WtiteReportFooterString(System.Drawing.Graphics,System.String,System.Drawing.Font,System.Drawing.StringFormat,System.Drawing.SolidBrush)">
+ <summary>
+   كتابة النص اسفل التقرير
+ </summary>
+ <param name="s">النص</param>
+ <param name="f">الخص</param>
+ <param name="sf">شكل الخط</param>
+ <param name="color">لون النص</param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportFooterColor">
+ <summary>
+لون نص التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.FontReportFooter">
+ <summary>
+خط نص راس التقرير 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportFooterStringFormat">
+ <summary>
+ شكل نص ذيل التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportHeaderColor">
+ <summary>
+لون نص اعلى  التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.FontReportHeader">
+ <summary>
+خط نص راس التقرير 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportHeaderStringFormat">
+ <summary>
+ شكل نص راس التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.#ctor">
+ <summary>
+ استخراج تقرير جديد
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.#ctor(System.Windows.Forms.DataGridView)">
+ <summary>
+ استخراج تقرير جديد
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.Loading">
+ <summary>
+ تحميل بيانات التقرير
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.SetStringAlighntpageHeader">
+ <summary>
+ وضع النص في رأس الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.SetStringAlighntPageFooter">
+ <summary>
+ وضع النص في ذيل الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.SetStringAlighntReportHeader">
+ <summary>
+ وضع النص في رأس التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.SetStringAlighntReportFooter">
+ <summary>
+ وضع النص في ذيل التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.DefoultPage">
+ <summary>
+ الشكل الافتراضي للصفحة
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.MyNewpageMargine(System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean)">
+ <summary>
+ تحديد هوامش الصفحة
+ </summary>
+ <param name="left">من اليسار </param>
+ <param name="right">من اليمين</param>
+ <param name="top">من الاعلى</param>
+ <param name="down">من السفل</param>
+ <param name="landscape">وضع الصفحة افقى ام عرضي</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetFramTablePen(System.Drawing.Drawing2D.DashCap,System.Int32,System.Drawing.Drawing2D.DashStyle,Zera3a.MySimpleReport.doublelines)">
+ <summary>
+ عمل الجدول المشكل لأطارالصفحة
+ </summary>
+ <param name="DashCap"></param>
+ <param name="widfh"></param>
+ <param name="DashSteyt"></param>
+ <param name="doublLine"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.Reload">
+ <summary>
+ اعادة تحميل
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetFramReportPen(System.Drawing.Drawing2D.DashCap,System.Int32,System.Drawing.Drawing2D.DashStyle,Zera3a.MySimpleReport.doublelines)">
+ <summary>
+ عمل الجدول المشكل لأطارالصفحة
+ </summary>
+ <param name="DashCap"></param>
+ <param name="widfh"></param>
+ <param name="DashSteyt"></param>
+ <param name="doublLine"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetTableColor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+ <summary>
+ شكل الوان الخطوط المشكلة للجدول
+ </summary>
+ <param name="fc">اطار الجدول</param>
+ <param name="rc">صف الجدول</param>
+ <param name="cc"> عملو الجدول</param>
+ <param name="hcc">اللون الوسطي في رأس الجدول</param>
+ <param name="hcs">اللون الطرفي في رأس الجدول</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetRowPen(System.Drawing.Drawing2D.DashCap,System.Int32,System.Drawing.Drawing2D.DashStyle)">
+ <summary>
+ شكل الخط الفاصل بين الصفين
+ </summary>
+ <param name="DashCap"></param>
+ <param name="widfh"></param>
+ <param name="DashSteyt"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetCullomPen(System.Drawing.Drawing2D.DashCap,System.Int32,System.Drawing.Drawing2D.DashStyle)">
+ <summary>
+ شكل الخط الفاصل بين العمودين
+ </summary>
+ <param name="DashCap"></param>
+ <param name="widfh"></param>
+ <param name="DashSteyt"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.Drowtable(System.Drawing.Graphics)">
+ <summary>
+  رسم الجدول
+ </summary>
+ <param name="g"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetTextFont(System.String,System.Int32,System.Drawing.FontStyle)">
+ <summary>
+ عمل خط في بيانات الجدول
+ </summary>
+ <param name="fonttype">اسم الخط</param>
+ <param name="size">حجم الخط</param>
+ <param name="fontStyl">الشكل</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetTextFont(System.Drawing.Font)">
+ <summary>
+ عمل خط في بيانات الجدول
+ </summary>
+ <param name="f"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetTextFontWithDataGrid">
+ <summary>
+ عمل خط في بيانات الجدول
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetFontcolor(System.Drawing.Color,System.Drawing.Color)">
+ <summary>
+ الوان الخطوط البيانات في الجدول
+ </summary>
+ <param name="fc">بيانات الجدول</param>
+ <param name="FHc">بيانات رأس عمود الجدول</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetTextHeaderFont(System.String,System.Int32,System.Drawing.FontStyle)">
+ <summary>
+ عمل خط في بيانات راس الجدول
+ </summary>
+ <param name="fonttype">اسم الخط</param>
+ <param name="size">حجم الخط</param>
+ <param name="fontStyl">الشكل</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetTextHeaderFont(System.Drawing.Font)">
+ <summary>
+ عمل خط في بيانات راس الجدول
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetPageHeaderFont(System.String,System.Int32,System.Drawing.FontStyle)">
+ <summary>
+ عمل خط في رأس الصفحة
+ </summary>
+ <param name="fonttype">اسم الخط</param>
+ <param name="size">حجم الخط</param>
+ <param name="fontStyl">الشكل</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.setReportPageFont(System.Drawing.Font,System.Drawing.Font,System.Drawing.Font,System.Drawing.Font)">
+ <summary>
+ خطوط الرأس وذيل التقرير
+ </summary>
+ <param name="rhf">راس التقرير</param>
+ <param name="phf">راس الصفحة</param>
+ <param name="rff">ذيل التقرير</param>
+ <param name="pff">ذيل الصفحة</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetPageFooterFont(System.String,System.Int32,System.Drawing.FontStyle)">
+ <summary>
+ عمل خط في ذيل الصفحة
+ </summary>
+ <param name="fonttype">اسم الخط</param>
+ <param name="size">حجم الخط</param>
+ <param name="fontStyl">الشكل</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetReportFooterFont(System.String,System.Int32,System.Drawing.FontStyle)">
+ <summary>
+ عمل خط في رأس التقرير
+ </summary>
+ <param name="fonttype">اسم الخط</param>
+ <param name="size">حجم الخط</param>
+ <param name="fontStyl">الشكل</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetReportHeaderFont(System.String,System.Int32,System.Drawing.FontStyle)">
+ <summary>
+ عمل خط في رأس التقرير
+ </summary>
+ <param name="fonttype">اسم الخط</param>
+ <param name="size">حجم الخط</param>
+ <param name="fontStyl">الشكل</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetReportFontColor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+ <summary>
+ الوان الخطوط
+ </summary>
+ <param name="rhc">راس التقرير</param>
+ <param name="rfc">ذيل التقرير</param>
+ <param name="phc">راس الصفحة</param>
+ <param name="pfc">ذيل الصفحة</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetReportText(System.String,System.String)">
+ <summary>
+ ادخال النصوص رأس وذيل التقرير
+ </summary>
+ <param name="hs">الراس</param>
+ <param name="fs">الذيل</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetpageText(System.String,System.String)">
+ <summary>
+ ادخال النصوص رأس وذيل الصفحة
+ </summary>
+ <param name="hs">الراس</param>
+ <param name="fs">الذيل</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetFontReport">
+ <summary>
+ الخطوط الافتراضية
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetMyStringAllighne(Zera3a.MySimpleReport.myStingAllighin,Zera3a.MySimpleReport.myStingAllighin,Zera3a.MySimpleReport.myStingAllighin,Zera3a.MySimpleReport.myStingAllighin)">
+ <summary>
+ وضع النصوص في التقرير
+ </summary>
+ <param name="rh">رأس التفرير</param>
+ <param name="rf">ذيل التقرير</param>
+ <param name="ph">راس الصفحة</param>
+ <param name="pf">ذيل الصفحة</param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.MyImage">
+ <summary>
+ الشعار التي سيتم وضعه في التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.MyImageRectangel">
+ <summary>
+ مربع اطار التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.pictureWidth">
+ <summary>
+ عرض الاطار
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.pictureLeft">
+ <summary>
+ شمال التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.pictureTop">
+ <summary>
+ رأس الاطار
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.pictureHight">
+ <summary>
+ ارتفاع الاطار
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.DrowPicture(System.Drawing.Graphics)">
+ <summary>
+ رسم الصورة
+ </summary>
+ <param name="g"></param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.MyImagePossion">
+ <summary>
+ لتحديدموقع الصورة في التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetMyPicturePossion(Zera3a.MySimpleReport.PicturePossion,System.Int32,System.Int32)">
+ <summary>
+ تحديد موقع الصورة في التقير
+ </summary>
+ <param name="p">مكان الصورة</param>
+ <param name="a">ازاحة</param>
+ <param name="w">العرض و الطول</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.SetImage(System.Drawing.Image)">
+ <summary>
+ اخذ الصورة
+ </summary>
+ <param name="img"></param>
+ <remarks></remarks>
+</member>
+<member name="F:Zera3a.MySimpleReport.PicturePossion.UpRight">
+ <summary>
+ اعلى يمين
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Zera3a.MySimpleReport.PicturePossion.UpLeft">
+ <summary>
+ اعلى يسار
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Zera3a.MySimpleReport.PicturePossion.DownRight">
+ <summary>
+ اسفل يمين 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:Zera3a.MySimpleReport.PicturePossion.DownLeft">
+ <summary>
+ اسفل يسار
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportFrame">
+ <summary>
+ مربع البرواز
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportFramePen">
+ <summary>
+ قلم البرواز
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.MySimpleReport.DrowReportFram(System.Drawing.Graphics)">
+ <summary>
+ رسم البرواز بالاطوال الافتراضية
+ </summary>
+ <param name="g"></param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.DoubleReportline">
+ <summary>
+ هل يتم رسم البرواز بشكل مزدوج 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.MySimpleReport.ReportFrameColor">
+ <summary>
+ لون البرواز
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.MyPage">
+ <summary>
+ شكل الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.PageMargien">
+ <summary>
+ يحدد هوامش الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.PageArea">
+ <summary>
+ يحدد حدود التقرير يعني يطرح من الصفحة الهوامش
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.Pages.DefultPage">
+ <summary>
+ الشكل الافتراضي للصفحة
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.Pages.PageSitting(System.Boolean,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ تعديل في بعض الخصائص
+ </summary>
+ <param name="lan"></param>
+ <param name="b">الهامش السفلي</param>
+ <param name="t">الهامش العلوي</param>
+ <param name="l">الهامش اليساري</param>
+ <param name="r">الهامش اليميني</param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.Details">
+ <summary>
+ تفاصيل التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.FooterReport">
+ <summary>
+ ذيل  التقرير 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.FooterPage">
+ <summary>
+ ذيل الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.HeaderPage">
+ <summary>
+ راس الصفحة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.HeaderReport">
+ <summary>
+ راس التقرير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.HeaderReportOverPart">
+ <summary>
+الراس   فوق الجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.FooererReportOverPart">
+ <summary>
+الذيل   فوق الجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Pages.isFramDouble">
+ <summary>
+ هل يتم رسم اطار مزدوج
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.Pages.#ctor">
+ <summary>
+  هذا التصنيف مصمم لكي يكون هو  شكل  الصفحة الافتراضية قبل  تغيير  اي بيانات عليها 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.isFramDouble">
+ <summary>
+ هل يتم رسم اطار مزدوج
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.Rectangle">
+ <summary>
+ المساحة المطلوبة في التقرير 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.InternelRectangle">
+ <summary>
+ المساحة المطلوبة في التقرير 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.FramColor">
+ <summary>
+ لون الاطار 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.BackColor">
+ <summary>
+ تحدد لون خلفية الاطار
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.StringX">
+ <summary>
+ موقع النص الافقي
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.Stringy">
+ <summary>
+ موقع النص الراسي
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.StringFont">
+ <summary>
+ شكل النص المكتوب داخل الاطار 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportPart.Is_DoubleLineString">
+ <summary>
+ هل يكتب النص على عدة اسطر ؟؟
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportPart.reCtSetting(System.Drawing.Rectangle)">
+ <summary>
+  لتحديد المساحة
+ </summary>
+ <param name="rect"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportPart.FramSetting(System.Drawing.Color,System.Single,System.Boolean)">
+ <summary>
+ لتحديد شكل الاطار
+ </summary>
+ <param name="c">اللون</param>
+ <param name="w">حجم الاطار</param>
+ <param name="isFdouble"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportPart.FramSetting(System.Drawing.Pen)">
+ <summary>
+ لتحديد قلم رسم الاطار
+ </summary>
+ <param name="p"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportPart.BackColorSetting(System.Drawing.Brush)">
+ <summary>
+ لتحديد لون الخلفية
+ </summary>
+ <param name="brush"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportPart.SetText(System.String,Zera3a.allinge)">
+ <summary>
+ لتحديد شكل النص
+ </summary>
+ <param name="txt"></param>
+ <param name="Alli"></param>
+ <remarks></remarks>
+</member>
+<member name="T:Zera3a.StringFont">
+ <summary>
+ النص 
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.StringFont.StringRect">
+ <summary>
+ يحدد المحيط الذي يكتب النص بداخله
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.StringFont.text">
+ <summary>
+  النص
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.StringFont.ForeColor">
+ <summary>
+ لون الخط
+
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.ReportPrint.Pages">
+ <summary>
+ صفحات التقرير 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.ReportPrint.PageFormateSetting(System.Drawing.Brush,System.Drawing.Color,System.Single,System.Boolean)">
+ <summary>
+ شكل الصفحة من ناحية الالوان
+ </summary>
+ <param name="bc">الخلفية</param>
+ <param name="framC">لون البرواز</param>
+ <param name="w">عرض خط البرواز</param>
+ <param name="isdf">هل يطبع الخط مزدوج</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.ReportPrint.SetPage(System.Boolean,System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ تعديل في الصفحة
+ </summary>
+ <param name="lan">افقي ام راسي</param>
+ <param name="t">الهامش العلوي</param>
+ <param name="l">الهامش شمال الصفحة</param>
+ <param name="r">هامش يمين الصفحة</param>
+ <param name="b">هامش اسفل الصفحة</param>
+ <remarks></remarks>
+</member>
+<member name="F:Zera3a.reportOverPart.ROPartFram">
+  """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+</member>
+<member name="P:Zera3a.reportOverPart.ReportOverPartFrame">
+ <summary>
+ يحدد مربع الاطار في الجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.isFramDouble">
+ <summary>
+ هل يتم رسم اطار مزدوج
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.isReportOverPart_Active">
+ <summary>
+ هل يتم تفعيله 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.InternelRectangle">
+ <summary>
+ المساحة المطلوبة في التقرير 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.FramColor">
+ <summary>
+ لون الاطار 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.BackColor">
+ <summary>
+ تحدد لون خلفية الاطار
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.RightPart">
+ <summary>
+ القسم الايمن  للجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.MiddelPart">
+ <summary>
+ القسم الاوسط للجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.LeftPart">
+ <summary>
+ القسم الايسر  للجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.RightPartRect">
+ <summary>
+ مربع القسم الايمن  للجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.MiddelPartRect">
+ <summary>
+  مربع القسم الاوسط للجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.reportOverPart.LeftPartRect">
+ <summary>
+ مربع القسم الايسر  للجزء
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.SetRectPart(System.Drawing.Rectangle,System.Drawing.Brush,System.Drawing.Color,System.Int32,System.Boolean)">
+ <summary>
+ اعطاء البيانات الاساسية للمستطيل 
+ </summary>
+ <param name="rect">الاطوال</param>
+ <param name="bc">لون الخلفية</param>
+ <param name="c">لون االطار</param>
+ <param name="w">حجم خط الاطار</param>
+ <param name="isFdouble">هل الاطار مزدوج؟؟</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.RightPartreCtSetting(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ تحديد اطوال الجزء الايمن
+ </summary>
+ <param name="l">اليسار</param>
+ <param name="t">الاعلى</param>
+ <param name="h">الطول</param>
+ <param name="w">العرض</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.medilPartreCtSetting(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ تحديد اطوال الجزء الاوسط
+ </summary>
+ <param name="l">اليسار</param>
+ <param name="t">الاعلى</param>
+ <param name="h">الطول</param>
+ <param name="w">العرض</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.leftPartreCtSetting(System.Int32,System.Int32,System.Int32,System.Int32)">
+ <summary>
+ تحديد اطوال الجزء الايسر
+ </summary>
+ <param name="l">اليسار</param>
+ <param name="t">الاعلى</param>
+ <param name="h">الطول</param>
+ <param name="w">العرض</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.RightPartreCtSetting(System.Drawing.Rectangle)">
+ <summary>
+ تحديد اطوال الجزء الايمن
+ </summary>
+ <param name="rect">الاطوال</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.MedellPartreCtSetting(System.Drawing.Rectangle)">
+ <summary>
+ تحديد اطوال الجزء الاوسط
+ </summary>
+ <param name="rect">الاطوال</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.leftPartreCtSetting(System.Drawing.Rectangle)">
+ <summary>
+ تحديد اطوال الجزء الايسر
+ </summary>
+ <param name="rect">الاطوال</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.RightPartreCtSetting(System.Drawing.Brush)">
+ <summary>
+ تحديد  لون الخلفية الجزء الايمن
+ </summary>
+ <param name="Bc">لون الخلفية</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.MidelPartreCtSetting(System.Drawing.Brush)">
+ <summary>
+ تحديد  لون الخلفية الجزء الاوسط
+ </summary>
+ <param name="Bc">لون الخلفية</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.leftPartreCtSetting(System.Drawing.Brush)">
+ <summary>
+ تحديد  لون الخلفية الجزء الايسر 
+ </summary>
+ <param name="Bc">لون الخلفية</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.RightPartFramSetting(System.Drawing.Color,System.Single,System.Boolean)">
+ <summary>
+ لتحديد شكل الاطار للجزء الايمن
+ </summary>
+ <param name="c">اللون</param>
+ <param name="w">حجم الاطار</param>
+ <param name="isFdouble"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.MiddelPartFramSetting(System.Drawing.Color,System.Single,System.Boolean)">
+ <summary>
+ لتحديد شكل الاطار للجزء الاوسط
+ </summary>
+ <param name="c">اللون</param>
+ <param name="w">حجم الاطار</param>
+ <param name="isFdouble"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.LeftPartFramSetting(System.Drawing.Color,System.Single,System.Boolean)">
+ <summary>
+ لتحديد شكل الاطار للجزء الايسر
+ </summary>
+ <param name="c">اللون</param>
+ <param name="w">حجم الاطار</param>
+ <param name="isFdouble"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.RightPartSetText(System.String,Zera3a.allinge)">
+ <summary>
+ تحديد النص وموقعه في الجزء الايمن
+ </summary>
+ <param name="txt"></param>
+ <param name="Alli"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.MiddelPartSetText(System.String,Zera3a.allinge)">
+ <summary>
+ تحديد النص وموقعه في الجزء الاوسط
+ </summary>
+ <param name="txt"></param>
+ <param name="Alli"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.LeftPartSetText(System.String,Zera3a.allinge)">
+ <summary>
+ تحديد النص وموقعه في الجزء الايسر
+ </summary>
+ <param name="txt"></param>
+ <param name="Alli"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.RightPartSetText(System.Drawing.Color,System.Drawing.Font)">
+ <summary>
+ تحديد  خط النص و لونه في الجزء الايمن
+ </summary>
+ <param name="c"></param>
+ <param name="f"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.MiddelPartSetText(System.Drawing.Color,System.Drawing.Font)">
+ <summary>
+ تحديد  خط النص و لونه في الجزء الاوسط
+ </summary>
+ <param name="c"></param>
+ <param name="f"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.LeftPartSetText(System.Drawing.Color,System.Drawing.Font)">
+ <summary>
+ تحديد  خط النص و لونه في الجزء الايسر
+ </summary>
+ <param name="c"></param>
+ <param name="f"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.RightPart_print(System.Drawing.Graphics,System.Boolean)">
+ <summary>
+ طباعة الجزء الايمن
+ </summary>
+ <param name="G"></param>
+ <param name="Mult"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.MiddelPart_print(System.Drawing.Graphics,System.Boolean)">
+ <summary>
+ طباعة الجزء الاوسط
+ </summary>
+ <param name="G"></param>
+ <param name="Mult"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.LeftPart_print(System.Drawing.Graphics,System.Boolean)">
+ <summary>
+ طباعة الجزء الايسر
+ </summary>
+ <param name="G"></param>
+ <param name="Mult"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.reportOverPart.RoportOVerPart_Print(System.Drawing.Graphics)">
+ <summary>
+ طباعة 
+ </summary>
+ <param name="g"></param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.TableStringFont">
+ <summary>
+ لتحديد نص خلايا الجدول
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.TableHeadStringFont">
+ <summary>
+ لتحديد نص راس الجدول
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.PrintMe">
+ <summary>
+ اطبعني
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.PrintMoreTable">
+ <summary>
+ طباعة جداول متعددة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.TableFrame">
+ <summary>
+ اطار الجدول
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.MoreTableFrame">
+ <summary>
+ اطار الجدول
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.Column">
+ <summary>
+ الاعمدة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.Row">
+ <summary>
+ الصفوف
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.RowHead">
+ <summary>
+ راس الجدول
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.RowCount">
+ <summary>
+ عدد الصفوف
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.ColumnCount">
+ <summary>
+ عدد الاعمدة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.Table.AllowArea">
+ <summary>
+ المنطقة المسموع بالطباعة بها
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.CheckBox">
+ <summary>
+ هل تجعل الزر على شكل شيك بوكس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.meloodcenter_color">
+ <summary>
+  اللون الوسطي في حالة مرور الماوس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.meloodserruonding_color">
+ <summary>
+  اللون المحيطي في حالة التحميل
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.buttonclick_center_color">
+ <summary>
+  اللون الوسطي في حالة نقر  الماوس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.buttonclick_surrounding_color">
+ <summary>
+  اللون المحيطي في حالة نقر  الماوس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.mousemove_center_color">
+ <summary>
+  اللون الوسطي في حالة مرور الماوس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.mousrmove_surronding_color">
+ <summary>
+  اللون المحيطي في حالة مرور الماوس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.me_text">
+ <summary>
+  كتابة النص في حالة تلوين الزر
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.font_color">
+ <summary>
+   لون خط النص في حالة تلوين الزر وعند التحميل
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.font_color_Mousemove">
+ <summary>
+   لون خط النص في حالة تلوين الزر وعند مرور الماوس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.font_color_Mouseclick">
+ <summary>
+   لون خط النص في حالة تلوين الزر وعند نقر الماوس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.UseDefultButton">
+ <summary>
+   جعل الخلفية من خاصية الباك كلر 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_button.MakeMeAs">
+ <summary>
+   تغيير شكل الزر
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.MeText">
+ <summary>
+ LabelText  لقراءة البيانات في حالة اتسخدام الخاصية 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.WaterMark">
+ <summary>
+ ادخال صندوق العناوين داخل صندوق النصوص
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.LabelColor">
+ <summary>
+ ادخال صندوق العناوين داخل صندوق النصوص
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.textColor">
+ <summary>
+ ادخال صندوق العناوين داخل صندوق النصوص
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.numaricCheck">
+ <summary>
+ هل يتعامل مع الارقام
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.enter_color">
+ <summary>
+ لون التكست عند دخول
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.leave_color">
+ <summary>
+ لون التكست عند خروج الماوس
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.read_only_color">
+ <summary>
+ لون التكست عندما  يكون للقتراءة فقط 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.t_textbox.fillcombo(System.Windows.Forms.ComboBox)">
+ <summary>
+ اظهار الكومبو
+ </summary>
+ <param name="com"></param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.checkEmail">
+ <summary>
+  هل يختبر الايميل
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.SetLangAs">
+ <summary>
+ اللغة التي يبدأ 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.Textlengthcheck">
+ <summary>
+ تحديد طول النص المتاح
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.t_textbox.checkNolength">
+ <summary>
+  تحديد النص الكبر من او اصغر من او يساوي
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="E:Zera3a.t_textbox.pressEnter">
+ <summary>
+ في حالة الظغط على مفتاح الادخال  لنفيذ امر معين
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.XmlDatabasework.#ctor">
+ <summary>
+ يقوم الكلاس بالتعامل مع قواعد البيانات من نوع اكس ام ال و التي يتم انشاءها من كاشن داتا ست
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.XmlDatabasework.looding(System.String,System.Data.DataSet)">
+ <summary>
+ استدعاء ملف البيانات
+ </summary>
+ <param name="mefilename">اسم الملف</param>
+ <param name="medataset">داتا ست</param>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.XmlDatabasework.looding(System.String,System.Data.DataSet,System.Windows.Forms.BindingSource)">
+ <summary>
+ استدعاء ملف البيانات
+ </summary>
+ <param name="mefilename">اسم الملف</param>
+ <param name="medataset">داتا ست</param>
+ <param name="bindin">داتا بايندنج</param>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.XmlDatabasework.FileName">
+ <summary>
+ اسم الملف
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.XmlDatabasework.DataSet">
+ <summary>
+ الداتا ست
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.XmlDatabasework.Save">
+ <summary>
+ حفظ
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.XmlDatabasework.Dataload">
+ <summary>
+ قراءة البيانات
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.Assasy">
+ <summary>
+ المرتب الاساسي
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.getHokoma15">
+ <summary>
+ 15% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.getHokoma1">
+ <summary>
+ 1% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.getHokoma2">
+ <summary>
+ 2% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.getHokoma1_5">
+ <summary>
+ 1,5% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.Totalhokoma">
+ <summary>
+ مجموع الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.Get5Badal">
+ <summary>
+ مجموع خمس علاوات
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.GetHadAddnaa">
+ <summary>
+ حد ادنى
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.GetEgtema3ee">
+ <summary>
+الاجتماعية
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.Get200">
+ <summary>
+200%
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.Get75">
+ <summary>
+25%
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.Get125">
+ <summary>
+125%
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.Get3adwaaTafhrgh">
+ <summary>
+بدل عدوى و تفرغ 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.TotalHeafeez">
+ <summary>
+ مجموع الحوافز
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.getmotgher15">
+ <summary>
+ 15%  متغير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.getmotgher1">
+ <summary>
+ 1% متغير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.Totamotgher">
+ <summary>
+ مجموع حصص الحكومة من الاجور المتغير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.SalaryAdded.totalADDED">
+ <summary>
+ اجمالي المستحقات
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.Assasy">
+ <summary>
+ المرتب الاساسي
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.motgher">
+ <summary>
+ المرتب الاساسي
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getHokoma15">
+ <summary>
+ 15% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getHokoma1">
+ <summary>
+ 1% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getHokoma2">
+ <summary>
+ 2% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getHokoma1_5">
+ <summary>
+ 1,5% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getHokoma10">
+ <summary>
+ 10% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getHokoma3">
+ <summary>
+ 3% حصة الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.Totalhokoma">
+ <summary>
+ مجموع الحكومة
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.salaryDeduction.setAqsatM3ash(System.Single,System.Single,System.Single)">
+ <summary>
+ ادخال اقساط المعاش
+ </summary>
+ <param name="m3ash">قسط المعاش</param>
+ <param name="Moahtraa">قسط المشتراه</param>
+ <param name="Estebdal">الاستبدال</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.TotalAqsaat">
+ <summary>
+ اجمالي اقساط المعاش
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.SetTotalHafez">
+ <summary>
+ اجمالي الحوافز
+ </summary>
+ <value></value>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getmotgher1">
+ <summary>
+ 1% متغير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getmotgher15">
+ <summary>
+15% متغير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getmotgher10">
+ <summary>
+ 10% متغير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.Totamotgher">
+ <summary>
+ مجموع حصص الحكومة من الاجور المتغير
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.salaryDeduction.setdeen(System.Single,System.Single)">
+ <summary>
+ ادخال الديون السنوية
+ </summary>
+ <param name="damaan">ضمان الحكومة</param>
+ <param name="solfaa">السلفة</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.TotaDeon">
+ <summary>
+ اجمالي الديون السنوية
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.salaryDeduction.setotherdeen(System.Single,System.Single,System.Single,System.Single,System.Single,System.Single,System.Single)">
+ <summary>
+ ادخال الديون الاخرى
+ </summary>
+ <param name="egtma3ee">الاجتماعي</param>
+ <param name="takfol">تكافل</param>
+ <param name="nashaat">جمعية النشاط</param>
+ <param name="naqaba3omaal">نقابة عمال</param>
+ <param name="tatbeeqeen">نادي التطبيقيين</param>
+ <param name="togareen">تجاريين</param>
+ <param name="tatbeekeenNqaaba">نقابة التطبيقيين</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.TotalotherDeon">
+ <summary>
+ اجمالي الديون اخرى
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getTameen1_5">
+ <summary>
+ 1.5% التامين الصحي
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.getTameen_5">
+ <summary>
+ .5%  التامين الصحي 
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.TotalTameen">
+ <summary>
+ مجموع التامين
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:Zera3a.salaryDeduction.setTax(System.Single,System.Single)">
+ <summary>
+ ادخال الديون السنوية
+ </summary>
+ <param name="kasb">كسب عمل</param>
+ <param name="damgha">دمغة</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.Totatax">
+ <summary>
+ اجمالي الضرائب
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="P:Zera3a.salaryDeduction.totalDeduction">
+ <summary>
+ اجمالي الاستقطاعات
+ </summary>
+ <value></value>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
